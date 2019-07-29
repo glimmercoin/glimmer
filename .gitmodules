@@ -1,0 +1,9 @@
+[submodule "core"]
+	path = core
+	url = git@github.com:glimmercoin/core
+[submodule "shimmer"]
+	path = shimmer
+	url = git@github.com:glimmercoin/shimmer
+[submodule "wave"]
+	path = wave
+	url = git@github.com:glimmercoin/wave
