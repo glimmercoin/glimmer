@@ -3,5 +3,6 @@
 members = [
 "core",
 "shimmer",
-"wave"
+"wave",
+"blake2b-rs"
 ]
