@@ -7,3 +7,6 @@
 [submodule "wave"]
 	path = wave
 	url = git@github.com:glimmercoin/wave
+[submodule "blake2b-rs"]
+	path = blake2b-rs
+	url = git@github.com:glimmercoin/blake2b-rs
