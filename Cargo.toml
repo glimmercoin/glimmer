@@ -4,5 +4,6 @@ members = [
 "core",
 "shimmer",
 "wave",
+"reflection",
 "blake2b-rs"
 ]
